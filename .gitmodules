@@ -1,3 +1,6 @@
 [submodule "Reorderable-List"]
 	path = Reorderable-List
 	url = https://github.com/FellowshipOfTheGame/Reorderable-List
+[submodule "Hide-in-Inspector-If"]
+	path = Hide-in-Inspector-If
+	url = https://github.com/FellowshipOfTheGame/Hide-in-Inspector-If
